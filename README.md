@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on to create an application, that records signals and afterward, you can replay them from a file with right timestamp
+- 🔭 I’m currently creating an Android application.
 - 🌱 I’m currently learning Rustlang
 - 💬 Ask me about embedded programing
 
