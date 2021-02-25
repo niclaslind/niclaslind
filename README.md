@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-Code enthusiast by heart, especially interested in low-level programming languages.
-Usually working in embedded environments, but also doing some backend and android development.
+Code enthusiast by heart, especially interested in low-level programming languages. 
+Usually working in embedded environments, but also happy to do some backend and android development.
 
-Recently, I also have found an interest in solving code challenges. 
+Recently, I also have found an interest in solving code challenges.
 
-Langueages I preffer: 
+Languages I prefer:
   * C++
   * Rust
   * Go
