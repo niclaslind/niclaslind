@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-Code enthusiast by heart, especially interested in low-level programming languages. 
+I'm a code enthusiast by heart, especially interested in low-level programming languages. 
 Usually working in embedded environments, but also happy to do some backend and android development.
-
-Recently, I also have found an interest in solving code challenges.
 
 Languages I prefer:
   * C++
