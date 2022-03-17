@@ -1,12 +1,9 @@
 ### Hello
 Code enthusiast by heart, especially interested in low-level programming languages. 
 
-Lanugages I usally work with
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=niclaslind&theme=dark&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=niclaslind&show_icons=true&theme=dark" alt="logo" height="160" align="left" style="margin: 5px; margin-bottom: 20px;" />
 
-![image](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![image](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![image](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 
 IDEs
 
